@@ -3,7 +3,7 @@
 ## Team Members
 - Sinchana Bhat P
 - Shweta C K (`shwetack148-collab`)
-- 
+- Sushmita
 
 ## Features Implemented
 - Insert Line
