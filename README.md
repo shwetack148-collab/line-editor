@@ -1,7 +1,9 @@
 # Simple Line Editor in C
 
 ## Team Members
-- Your Name
+- Sinchana Bhat P
+- Shwetack148 (`shwetack148-collab`)
+- 
 
 ## Features Implemented
 - Insert Line
@@ -18,10 +20,3 @@ Dynamic array of strings.
 
 ```bash
 gcc -Wall -Wextra -std=c11 main.c -o editor.exe
-```
-
-## Run
-
-```bash
-.\editor.exe
-```
