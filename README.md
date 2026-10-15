@@ -2,7 +2,7 @@
 
 ## Team Members
 - Sinchana Bhat P
-- Shwetack148 (`shwetack148-collab`)
+- Shweta C K (`shwetack148-collab`)
 - 
 
 ## Features Implemented
